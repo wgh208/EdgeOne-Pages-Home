@@ -128,6 +128,8 @@ const CONFIG = {
 };
 ```
 
+> 演示站 <https://wgh.me> 使用自建接口；模板为了可移植性默认官方接口，部署后可在 `CONFIG.hitokotoUrl` 中替换为自己的接口。
+
 - `hitokotoUrl`：可替换为自建接口，返回 JSON 中包含 `hitokoto` 和 `from` 即可；
 - `typingSpeed` / `deletingSpeed`：输入、删除速度（毫秒/字）；
 - `stayTime`：每条停留时间；
