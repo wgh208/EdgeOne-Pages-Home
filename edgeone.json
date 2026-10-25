@@ -1,0 +1,11 @@
+{
+  "schedules": [
+    {
+      "name": "bing-daily",
+      "cron": "40 16 * * *",
+      "timezone": "Asia/Shanghai",
+      "path": "/api/cron/bing",
+      "method": "POST"
+    }
+  ]
+}

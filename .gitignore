@@ -1,0 +1,6 @@
+node_modules/
+.edgeone/
+.env
+.DS_Store
+Thumbs.db
+*.log

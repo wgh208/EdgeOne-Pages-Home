@@ -1,0 +1,26 @@
+{
+  "name": "edgeone-pages-home",
+  "version": "1.0.0",
+  "description": "使用 EdgeOne Pages 搭建的纯静态个人主页模板。",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgh208/EdgeOne-Pages-Home.git"
+  },
+  "homepage": "https://wgh.me",
+  "bugs": {
+    "url": "https://github.com/wgh208/EdgeOne-Pages-Home/issues"
+  },
+  "keywords": [
+    "edgeone-pages",
+    "personal-homepage",
+    "static-site",
+    "bing-wallpaper",
+    "hitokoto"
+  ],
+  "dependencies": {
+    "@edgeone/pages-blob": "^0.0.14"
+  }
+}
